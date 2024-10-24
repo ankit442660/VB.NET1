@@ -1,0 +1,12 @@
+C:\VB.NET\SearchArray\SearchArray\bin\Debug\SearchArray.exe.config
+C:\VB.NET\SearchArray\SearchArray\bin\Debug\SearchArray.exe
+C:\VB.NET\SearchArray\SearchArray\bin\Debug\SearchArray.pdb
+C:\VB.NET\SearchArray\SearchArray\bin\Debug\SearchArray.xml
+C:\VB.NET\SearchArray\SearchArray\obj\Debug\SearchArray.vbproj.AssemblyReference.cache
+C:\VB.NET\SearchArray\SearchArray\obj\Debug\SearchArray.Form1.resources
+C:\VB.NET\SearchArray\SearchArray\obj\Debug\SearchArray.Resources.resources
+C:\VB.NET\SearchArray\SearchArray\obj\Debug\SearchArray.vbproj.GenerateResource.cache
+C:\VB.NET\SearchArray\SearchArray\obj\Debug\SearchArray.vbproj.CoreCompileInputs.cache
+C:\VB.NET\SearchArray\SearchArray\obj\Debug\SearchArray.exe
+C:\VB.NET\SearchArray\SearchArray\obj\Debug\SearchArray.xml
+C:\VB.NET\SearchArray\SearchArray\obj\Debug\SearchArray.pdb

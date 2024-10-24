@@ -1,0 +1,12 @@
+C:\VB.NET\Clipboard_Op\Clipboard_Op\bin\Debug\Clipboard_Op.exe.config
+C:\VB.NET\Clipboard_Op\Clipboard_Op\bin\Debug\Clipboard_Op.exe
+C:\VB.NET\Clipboard_Op\Clipboard_Op\bin\Debug\Clipboard_Op.pdb
+C:\VB.NET\Clipboard_Op\Clipboard_Op\bin\Debug\Clipboard_Op.xml
+C:\VB.NET\Clipboard_Op\Clipboard_Op\obj\Debug\Clipboard_Op.vbproj.AssemblyReference.cache
+C:\VB.NET\Clipboard_Op\Clipboard_Op\obj\Debug\Clipboard_Op.Form1.resources
+C:\VB.NET\Clipboard_Op\Clipboard_Op\obj\Debug\Clipboard_Op.Resources.resources
+C:\VB.NET\Clipboard_Op\Clipboard_Op\obj\Debug\Clipboard_Op.vbproj.GenerateResource.cache
+C:\VB.NET\Clipboard_Op\Clipboard_Op\obj\Debug\Clipboard_Op.vbproj.CoreCompileInputs.cache
+C:\VB.NET\Clipboard_Op\Clipboard_Op\obj\Debug\Clipboard_Op.exe
+C:\VB.NET\Clipboard_Op\Clipboard_Op\obj\Debug\Clipboard_Op.xml
+C:\VB.NET\Clipboard_Op\Clipboard_Op\obj\Debug\Clipboard_Op.pdb

@@ -1,0 +1,12 @@
+C:\VB.NET\InputBoxDDA\InputBoxDDA\bin\Debug\InputBoxDDA.exe.config
+C:\VB.NET\InputBoxDDA\InputBoxDDA\bin\Debug\InputBoxDDA.exe
+C:\VB.NET\InputBoxDDA\InputBoxDDA\bin\Debug\InputBoxDDA.pdb
+C:\VB.NET\InputBoxDDA\InputBoxDDA\bin\Debug\InputBoxDDA.xml
+C:\VB.NET\InputBoxDDA\InputBoxDDA\obj\Debug\InputBoxDDA.vbproj.AssemblyReference.cache
+C:\VB.NET\InputBoxDDA\InputBoxDDA\obj\Debug\InputBoxDDA.Form1.resources
+C:\VB.NET\InputBoxDDA\InputBoxDDA\obj\Debug\InputBoxDDA.Resources.resources
+C:\VB.NET\InputBoxDDA\InputBoxDDA\obj\Debug\InputBoxDDA.vbproj.GenerateResource.cache
+C:\VB.NET\InputBoxDDA\InputBoxDDA\obj\Debug\InputBoxDDA.vbproj.CoreCompileInputs.cache
+C:\VB.NET\InputBoxDDA\InputBoxDDA\obj\Debug\InputBoxDDA.exe
+C:\VB.NET\InputBoxDDA\InputBoxDDA\obj\Debug\InputBoxDDA.xml
+C:\VB.NET\InputBoxDDA\InputBoxDDA\obj\Debug\InputBoxDDA.pdb

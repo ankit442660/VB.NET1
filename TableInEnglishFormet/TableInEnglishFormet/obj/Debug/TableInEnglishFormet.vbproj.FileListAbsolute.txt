@@ -1,0 +1,12 @@
+C:\VB.NET\TableInEnglishFormet\TableInEnglishFormet\bin\Debug\TableInEnglishFormet.exe.config
+C:\VB.NET\TableInEnglishFormet\TableInEnglishFormet\bin\Debug\TableInEnglishFormet.exe
+C:\VB.NET\TableInEnglishFormet\TableInEnglishFormet\bin\Debug\TableInEnglishFormet.pdb
+C:\VB.NET\TableInEnglishFormet\TableInEnglishFormet\bin\Debug\TableInEnglishFormet.xml
+C:\VB.NET\TableInEnglishFormet\TableInEnglishFormet\obj\Debug\TableInEnglishFormet.vbproj.AssemblyReference.cache
+C:\VB.NET\TableInEnglishFormet\TableInEnglishFormet\obj\Debug\TableInEnglishFormet.Form1.resources
+C:\VB.NET\TableInEnglishFormet\TableInEnglishFormet\obj\Debug\TableInEnglishFormet.Resources.resources
+C:\VB.NET\TableInEnglishFormet\TableInEnglishFormet\obj\Debug\TableInEnglishFormet.vbproj.GenerateResource.cache
+C:\VB.NET\TableInEnglishFormet\TableInEnglishFormet\obj\Debug\TableInEnglishFormet.vbproj.CoreCompileInputs.cache
+C:\VB.NET\TableInEnglishFormet\TableInEnglishFormet\obj\Debug\TableInEnglishFormet.exe
+C:\VB.NET\TableInEnglishFormet\TableInEnglishFormet\obj\Debug\TableInEnglishFormet.xml
+C:\VB.NET\TableInEnglishFormet\TableInEnglishFormet\obj\Debug\TableInEnglishFormet.pdb

@@ -1,0 +1,12 @@
+C:\VB.NET\Input10NumberTextboxArray\Input10NumberTextboxArray\bin\Debug\Input10NumberTextboxArray.exe.config
+C:\VB.NET\Input10NumberTextboxArray\Input10NumberTextboxArray\bin\Debug\Input10NumberTextboxArray.exe
+C:\VB.NET\Input10NumberTextboxArray\Input10NumberTextboxArray\bin\Debug\Input10NumberTextboxArray.pdb
+C:\VB.NET\Input10NumberTextboxArray\Input10NumberTextboxArray\bin\Debug\Input10NumberTextboxArray.xml
+C:\VB.NET\Input10NumberTextboxArray\Input10NumberTextboxArray\obj\Debug\Input10NumberTextboxArray.vbproj.AssemblyReference.cache
+C:\VB.NET\Input10NumberTextboxArray\Input10NumberTextboxArray\obj\Debug\Input10NumberTextboxArray.Form1.resources
+C:\VB.NET\Input10NumberTextboxArray\Input10NumberTextboxArray\obj\Debug\Input10NumberTextboxArray.Resources.resources
+C:\VB.NET\Input10NumberTextboxArray\Input10NumberTextboxArray\obj\Debug\Input10NumberTextboxArray.vbproj.GenerateResource.cache
+C:\VB.NET\Input10NumberTextboxArray\Input10NumberTextboxArray\obj\Debug\Input10NumberTextboxArray.vbproj.CoreCompileInputs.cache
+C:\VB.NET\Input10NumberTextboxArray\Input10NumberTextboxArray\obj\Debug\Input10NumberTextboxArray.exe
+C:\VB.NET\Input10NumberTextboxArray\Input10NumberTextboxArray\obj\Debug\Input10NumberTextboxArray.xml
+C:\VB.NET\Input10NumberTextboxArray\Input10NumberTextboxArray\obj\Debug\Input10NumberTextboxArray.pdb

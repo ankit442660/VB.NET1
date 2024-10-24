@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "addsubmul", "addsubmul\addsubmul.vbproj", "{1C2AFF3C-F3AD-4C20-BD01-7B553B7F617C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C2AFF3C-F3AD-4C20-BD01-7B553B7F617C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2AFF3C-F3AD-4C20-BD01-7B553B7F617C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2AFF3C-F3AD-4C20-BD01-7B553B7F617C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2AFF3C-F3AD-4C20-BD01-7B553B7F617C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F77BB3-9F69-4CDB-B80E-AAB5BF773C11}
+	EndGlobalSection
+EndGlobal

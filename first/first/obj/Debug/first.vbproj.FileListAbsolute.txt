@@ -1,0 +1,12 @@
+C:\VB.NET\first\first\bin\Debug\first.exe.config
+C:\VB.NET\first\first\bin\Debug\first.exe
+C:\VB.NET\first\first\bin\Debug\first.pdb
+C:\VB.NET\first\first\bin\Debug\first.xml
+C:\VB.NET\first\first\obj\Debug\first.vbproj.AssemblyReference.cache
+C:\VB.NET\first\first\obj\Debug\first.Form1.resources
+C:\VB.NET\first\first\obj\Debug\first.Resources.resources
+C:\VB.NET\first\first\obj\Debug\first.vbproj.GenerateResource.cache
+C:\VB.NET\first\first\obj\Debug\first.vbproj.CoreCompileInputs.cache
+C:\VB.NET\first\first\obj\Debug\first.exe
+C:\VB.NET\first\first\obj\Debug\first.xml
+C:\VB.NET\first\first\obj\Debug\first.pdb

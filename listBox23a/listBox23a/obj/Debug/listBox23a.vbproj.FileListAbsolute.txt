@@ -1,0 +1,12 @@
+C:\VB.NET\listBox23a\listBox23a\bin\Debug\listBox23a.exe.config
+C:\VB.NET\listBox23a\listBox23a\bin\Debug\listBox23a.exe
+C:\VB.NET\listBox23a\listBox23a\bin\Debug\listBox23a.pdb
+C:\VB.NET\listBox23a\listBox23a\bin\Debug\listBox23a.xml
+C:\VB.NET\listBox23a\listBox23a\obj\Debug\listBox23a.vbproj.AssemblyReference.cache
+C:\VB.NET\listBox23a\listBox23a\obj\Debug\listBox23a.Form1.resources
+C:\VB.NET\listBox23a\listBox23a\obj\Debug\listBox23a.Resources.resources
+C:\VB.NET\listBox23a\listBox23a\obj\Debug\listBox23a.vbproj.GenerateResource.cache
+C:\VB.NET\listBox23a\listBox23a\obj\Debug\listBox23a.vbproj.CoreCompileInputs.cache
+C:\VB.NET\listBox23a\listBox23a\obj\Debug\listBox23a.exe
+C:\VB.NET\listBox23a\listBox23a\obj\Debug\listBox23a.xml
+C:\VB.NET\listBox23a\listBox23a\obj\Debug\listBox23a.pdb

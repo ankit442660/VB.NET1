@@ -1,0 +1,12 @@
+C:\VB.NET\messageboxsum\messageboxsum\bin\Debug\messageboxsum.exe.config
+C:\VB.NET\messageboxsum\messageboxsum\bin\Debug\messageboxsum.exe
+C:\VB.NET\messageboxsum\messageboxsum\bin\Debug\messageboxsum.pdb
+C:\VB.NET\messageboxsum\messageboxsum\bin\Debug\messageboxsum.xml
+C:\VB.NET\messageboxsum\messageboxsum\obj\Debug\messageboxsum.vbproj.AssemblyReference.cache
+C:\VB.NET\messageboxsum\messageboxsum\obj\Debug\messageboxsum.Form1.resources
+C:\VB.NET\messageboxsum\messageboxsum\obj\Debug\messageboxsum.Resources.resources
+C:\VB.NET\messageboxsum\messageboxsum\obj\Debug\messageboxsum.vbproj.GenerateResource.cache
+C:\VB.NET\messageboxsum\messageboxsum\obj\Debug\messageboxsum.vbproj.CoreCompileInputs.cache
+C:\VB.NET\messageboxsum\messageboxsum\obj\Debug\messageboxsum.exe
+C:\VB.NET\messageboxsum\messageboxsum\obj\Debug\messageboxsum.xml
+C:\VB.NET\messageboxsum\messageboxsum\obj\Debug\messageboxsum.pdb

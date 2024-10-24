@@ -1,0 +1,12 @@
+C:\VB.NET\pictureBox1\pictureBox1\bin\Debug\pictureBox1.exe.config
+C:\VB.NET\pictureBox1\pictureBox1\bin\Debug\pictureBox1.exe
+C:\VB.NET\pictureBox1\pictureBox1\bin\Debug\pictureBox1.pdb
+C:\VB.NET\pictureBox1\pictureBox1\bin\Debug\pictureBox1.xml
+C:\VB.NET\pictureBox1\pictureBox1\obj\Debug\pictureBox1.vbproj.AssemblyReference.cache
+C:\VB.NET\pictureBox1\pictureBox1\obj\Debug\pictureBox1.Form1.resources
+C:\VB.NET\pictureBox1\pictureBox1\obj\Debug\pictureBox1.Resources.resources
+C:\VB.NET\pictureBox1\pictureBox1\obj\Debug\pictureBox1.vbproj.GenerateResource.cache
+C:\VB.NET\pictureBox1\pictureBox1\obj\Debug\pictureBox1.vbproj.CoreCompileInputs.cache
+C:\VB.NET\pictureBox1\pictureBox1\obj\Debug\pictureBox1.exe
+C:\VB.NET\pictureBox1\pictureBox1\obj\Debug\pictureBox1.xml
+C:\VB.NET\pictureBox1\pictureBox1\obj\Debug\pictureBox1.pdb

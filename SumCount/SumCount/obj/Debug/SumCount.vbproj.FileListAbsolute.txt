@@ -1,0 +1,12 @@
+C:\VB.NET\SumCount\SumCount\obj\Debug\SumCount.vbproj.AssemblyReference.cache
+C:\VB.NET\SumCount\SumCount\obj\Debug\SumCount.Form1.resources
+C:\VB.NET\SumCount\SumCount\obj\Debug\SumCount.Resources.resources
+C:\VB.NET\SumCount\SumCount\obj\Debug\SumCount.vbproj.GenerateResource.cache
+C:\VB.NET\SumCount\SumCount\obj\Debug\SumCount.vbproj.CoreCompileInputs.cache
+C:\VB.NET\SumCount\SumCount\bin\Debug\SumCount.exe.config
+C:\VB.NET\SumCount\SumCount\bin\Debug\SumCount.exe
+C:\VB.NET\SumCount\SumCount\bin\Debug\SumCount.pdb
+C:\VB.NET\SumCount\SumCount\bin\Debug\SumCount.xml
+C:\VB.NET\SumCount\SumCount\obj\Debug\SumCount.exe
+C:\VB.NET\SumCount\SumCount\obj\Debug\SumCount.xml
+C:\VB.NET\SumCount\SumCount\obj\Debug\SumCount.pdb

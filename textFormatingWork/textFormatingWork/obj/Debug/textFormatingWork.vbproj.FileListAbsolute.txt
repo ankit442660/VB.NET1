@@ -1,0 +1,12 @@
+C:\VB.NET\textFormatingWork\textFormatingWork\obj\Debug\textFormatingWork.vbproj.AssemblyReference.cache
+C:\VB.NET\textFormatingWork\textFormatingWork\obj\Debug\textFormatingWork.Form1.resources
+C:\VB.NET\textFormatingWork\textFormatingWork\obj\Debug\textFormatingWork.Resources.resources
+C:\VB.NET\textFormatingWork\textFormatingWork\obj\Debug\textFormatingWork.vbproj.GenerateResource.cache
+C:\VB.NET\textFormatingWork\textFormatingWork\obj\Debug\textFormatingWork.vbproj.CoreCompileInputs.cache
+C:\VB.NET\textFormatingWork\textFormatingWork\bin\Debug\textFormatingWork.exe.config
+C:\VB.NET\textFormatingWork\textFormatingWork\bin\Debug\textFormatingWork.exe
+C:\VB.NET\textFormatingWork\textFormatingWork\bin\Debug\textFormatingWork.pdb
+C:\VB.NET\textFormatingWork\textFormatingWork\bin\Debug\textFormatingWork.xml
+C:\VB.NET\textFormatingWork\textFormatingWork\obj\Debug\textFormatingWork.exe
+C:\VB.NET\textFormatingWork\textFormatingWork\obj\Debug\textFormatingWork.xml
+C:\VB.NET\textFormatingWork\textFormatingWork\obj\Debug\textFormatingWork.pdb

@@ -1,0 +1,12 @@
+C:\VB.NET\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\VB.NET\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\VB.NET\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\VB.NET\Palindrome\Palindrome\bin\Debug\Palindrome.xml
+C:\VB.NET\Palindrome\Palindrome\obj\Debug\Palindrome.vbproj.AssemblyReference.cache
+C:\VB.NET\Palindrome\Palindrome\obj\Debug\Palindrome.Form1.resources
+C:\VB.NET\Palindrome\Palindrome\obj\Debug\Palindrome.Resources.resources
+C:\VB.NET\Palindrome\Palindrome\obj\Debug\Palindrome.vbproj.GenerateResource.cache
+C:\VB.NET\Palindrome\Palindrome\obj\Debug\Palindrome.vbproj.CoreCompileInputs.cache
+C:\VB.NET\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\VB.NET\Palindrome\Palindrome\obj\Debug\Palindrome.xml
+C:\VB.NET\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

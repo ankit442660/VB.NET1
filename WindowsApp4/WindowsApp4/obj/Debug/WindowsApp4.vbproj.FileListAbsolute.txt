@@ -1,0 +1,12 @@
+C:\VB.NET\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+C:\VB.NET\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+C:\VB.NET\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+C:\VB.NET\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+C:\VB.NET\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.AssemblyReference.cache
+C:\VB.NET\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form1.resources
+C:\VB.NET\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+C:\VB.NET\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.cache
+C:\VB.NET\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.CoreCompileInputs.cache
+C:\VB.NET\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+C:\VB.NET\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+C:\VB.NET\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb

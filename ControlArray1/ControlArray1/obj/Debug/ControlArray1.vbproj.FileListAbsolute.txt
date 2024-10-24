@@ -1,0 +1,12 @@
+C:\VB.NET\ControlArray1\ControlArray1\bin\Debug\ControlArray1.exe.config
+C:\VB.NET\ControlArray1\ControlArray1\bin\Debug\ControlArray1.exe
+C:\VB.NET\ControlArray1\ControlArray1\bin\Debug\ControlArray1.pdb
+C:\VB.NET\ControlArray1\ControlArray1\bin\Debug\ControlArray1.xml
+C:\VB.NET\ControlArray1\ControlArray1\obj\Debug\ControlArray1.vbproj.AssemblyReference.cache
+C:\VB.NET\ControlArray1\ControlArray1\obj\Debug\ControlArray1.Form1.resources
+C:\VB.NET\ControlArray1\ControlArray1\obj\Debug\ControlArray1.Resources.resources
+C:\VB.NET\ControlArray1\ControlArray1\obj\Debug\ControlArray1.vbproj.GenerateResource.cache
+C:\VB.NET\ControlArray1\ControlArray1\obj\Debug\ControlArray1.vbproj.CoreCompileInputs.cache
+C:\VB.NET\ControlArray1\ControlArray1\obj\Debug\ControlArray1.exe
+C:\VB.NET\ControlArray1\ControlArray1\obj\Debug\ControlArray1.xml
+C:\VB.NET\ControlArray1\ControlArray1\obj\Debug\ControlArray1.pdb

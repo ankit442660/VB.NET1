@@ -1,0 +1,12 @@
+C:\VB.NET\Table\Table\bin\Debug\Table.exe.config
+C:\VB.NET\Table\Table\bin\Debug\Table.exe
+C:\VB.NET\Table\Table\bin\Debug\Table.pdb
+C:\VB.NET\Table\Table\bin\Debug\Table.xml
+C:\VB.NET\Table\Table\obj\Debug\Table.vbproj.AssemblyReference.cache
+C:\VB.NET\Table\Table\obj\Debug\Table.Form1.resources
+C:\VB.NET\Table\Table\obj\Debug\Table.Resources.resources
+C:\VB.NET\Table\Table\obj\Debug\Table.vbproj.GenerateResource.cache
+C:\VB.NET\Table\Table\obj\Debug\Table.vbproj.CoreCompileInputs.cache
+C:\VB.NET\Table\Table\obj\Debug\Table.exe
+C:\VB.NET\Table\Table\obj\Debug\Table.xml
+C:\VB.NET\Table\Table\obj\Debug\Table.pdb

@@ -1,0 +1,12 @@
+C:\VB.NET\BackcolorForcolorTextBox\BackcolorForcolorTextBox\bin\Debug\BackcolorForcolorTextBox.exe.config
+C:\VB.NET\BackcolorForcolorTextBox\BackcolorForcolorTextBox\bin\Debug\BackcolorForcolorTextBox.exe
+C:\VB.NET\BackcolorForcolorTextBox\BackcolorForcolorTextBox\bin\Debug\BackcolorForcolorTextBox.pdb
+C:\VB.NET\BackcolorForcolorTextBox\BackcolorForcolorTextBox\bin\Debug\BackcolorForcolorTextBox.xml
+C:\VB.NET\BackcolorForcolorTextBox\BackcolorForcolorTextBox\obj\Debug\BackcolorForcolorTextBox.vbproj.AssemblyReference.cache
+C:\VB.NET\BackcolorForcolorTextBox\BackcolorForcolorTextBox\obj\Debug\BackcolorForcolorTextBox.Form1.resources
+C:\VB.NET\BackcolorForcolorTextBox\BackcolorForcolorTextBox\obj\Debug\BackcolorForcolorTextBox.Resources.resources
+C:\VB.NET\BackcolorForcolorTextBox\BackcolorForcolorTextBox\obj\Debug\BackcolorForcolorTextBox.vbproj.GenerateResource.cache
+C:\VB.NET\BackcolorForcolorTextBox\BackcolorForcolorTextBox\obj\Debug\BackcolorForcolorTextBox.vbproj.CoreCompileInputs.cache
+C:\VB.NET\BackcolorForcolorTextBox\BackcolorForcolorTextBox\obj\Debug\BackcolorForcolorTextBox.exe
+C:\VB.NET\BackcolorForcolorTextBox\BackcolorForcolorTextBox\obj\Debug\BackcolorForcolorTextBox.xml
+C:\VB.NET\BackcolorForcolorTextBox\BackcolorForcolorTextBox\obj\Debug\BackcolorForcolorTextBox.pdb

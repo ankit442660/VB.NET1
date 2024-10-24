@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LoppingStatement", "LoppingStatement\LoppingStatement.vbproj", "{213441CF-ABB6-434A-BC36-828045D9E86D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213441CF-ABB6-434A-BC36-828045D9E86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213441CF-ABB6-434A-BC36-828045D9E86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213441CF-ABB6-434A-BC36-828045D9E86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213441CF-ABB6-434A-BC36-828045D9E86D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B5C6348-3937-462D-875C-0C80411B6FBA}
+	EndGlobalSection
+EndGlobal

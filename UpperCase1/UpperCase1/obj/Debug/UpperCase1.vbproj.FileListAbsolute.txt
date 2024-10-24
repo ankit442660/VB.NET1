@@ -1,0 +1,12 @@
+C:\VB.NET\UpperCase1\UpperCase1\bin\Debug\UpperCase1.exe.config
+C:\VB.NET\UpperCase1\UpperCase1\bin\Debug\UpperCase1.exe
+C:\VB.NET\UpperCase1\UpperCase1\bin\Debug\UpperCase1.pdb
+C:\VB.NET\UpperCase1\UpperCase1\bin\Debug\UpperCase1.xml
+C:\VB.NET\UpperCase1\UpperCase1\obj\Debug\UpperCase1.vbproj.AssemblyReference.cache
+C:\VB.NET\UpperCase1\UpperCase1\obj\Debug\UpperCase1.Form1.resources
+C:\VB.NET\UpperCase1\UpperCase1\obj\Debug\UpperCase1.Resources.resources
+C:\VB.NET\UpperCase1\UpperCase1\obj\Debug\UpperCase1.vbproj.GenerateResource.cache
+C:\VB.NET\UpperCase1\UpperCase1\obj\Debug\UpperCase1.vbproj.CoreCompileInputs.cache
+C:\VB.NET\UpperCase1\UpperCase1\obj\Debug\UpperCase1.exe
+C:\VB.NET\UpperCase1\UpperCase1\obj\Debug\UpperCase1.xml
+C:\VB.NET\UpperCase1\UpperCase1\obj\Debug\UpperCase1.pdb

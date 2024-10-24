@@ -1,0 +1,12 @@
+C:\VB.NET\pricipal\pricipal\obj\Debug\pricipal.vbproj.AssemblyReference.cache
+C:\VB.NET\pricipal\pricipal\obj\Debug\pricipal.Form1.resources
+C:\VB.NET\pricipal\pricipal\obj\Debug\pricipal.Resources.resources
+C:\VB.NET\pricipal\pricipal\obj\Debug\pricipal.vbproj.GenerateResource.cache
+C:\VB.NET\pricipal\pricipal\obj\Debug\pricipal.vbproj.CoreCompileInputs.cache
+C:\VB.NET\pricipal\pricipal\bin\Debug\pricipal.exe.config
+C:\VB.NET\pricipal\pricipal\bin\Debug\pricipal.exe
+C:\VB.NET\pricipal\pricipal\bin\Debug\pricipal.pdb
+C:\VB.NET\pricipal\pricipal\bin\Debug\pricipal.xml
+C:\VB.NET\pricipal\pricipal\obj\Debug\pricipal.exe
+C:\VB.NET\pricipal\pricipal\obj\Debug\pricipal.xml
+C:\VB.NET\pricipal\pricipal\obj\Debug\pricipal.pdb

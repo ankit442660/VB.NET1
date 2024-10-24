@@ -1,0 +1,12 @@
+C:\VB.NET\InputBoxSum\InputBoxSum\bin\Debug\InputBoxSum.exe.config
+C:\VB.NET\InputBoxSum\InputBoxSum\bin\Debug\InputBoxSum.exe
+C:\VB.NET\InputBoxSum\InputBoxSum\bin\Debug\InputBoxSum.pdb
+C:\VB.NET\InputBoxSum\InputBoxSum\bin\Debug\InputBoxSum.xml
+C:\VB.NET\InputBoxSum\InputBoxSum\obj\Debug\InputBoxSum.vbproj.AssemblyReference.cache
+C:\VB.NET\InputBoxSum\InputBoxSum\obj\Debug\InputBoxSum.Form1.resources
+C:\VB.NET\InputBoxSum\InputBoxSum\obj\Debug\InputBoxSum.Resources.resources
+C:\VB.NET\InputBoxSum\InputBoxSum\obj\Debug\InputBoxSum.vbproj.GenerateResource.cache
+C:\VB.NET\InputBoxSum\InputBoxSum\obj\Debug\InputBoxSum.vbproj.CoreCompileInputs.cache
+C:\VB.NET\InputBoxSum\InputBoxSum\obj\Debug\InputBoxSum.exe
+C:\VB.NET\InputBoxSum\InputBoxSum\obj\Debug\InputBoxSum.xml
+C:\VB.NET\InputBoxSum\InputBoxSum\obj\Debug\InputBoxSum.pdb

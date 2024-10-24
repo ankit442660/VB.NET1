@@ -1,0 +1,12 @@
+C:\VB.NET\Timmer1\Timmer1\bin\Debug\Timmer1.exe.config
+C:\VB.NET\Timmer1\Timmer1\bin\Debug\Timmer1.exe
+C:\VB.NET\Timmer1\Timmer1\bin\Debug\Timmer1.pdb
+C:\VB.NET\Timmer1\Timmer1\bin\Debug\Timmer1.xml
+C:\VB.NET\Timmer1\Timmer1\obj\Debug\Timmer1.vbproj.AssemblyReference.cache
+C:\VB.NET\Timmer1\Timmer1\obj\Debug\Timmer1.Form1.resources
+C:\VB.NET\Timmer1\Timmer1\obj\Debug\Timmer1.Resources.resources
+C:\VB.NET\Timmer1\Timmer1\obj\Debug\Timmer1.vbproj.GenerateResource.cache
+C:\VB.NET\Timmer1\Timmer1\obj\Debug\Timmer1.vbproj.CoreCompileInputs.cache
+C:\VB.NET\Timmer1\Timmer1\obj\Debug\Timmer1.exe
+C:\VB.NET\Timmer1\Timmer1\obj\Debug\Timmer1.xml
+C:\VB.NET\Timmer1\Timmer1\obj\Debug\Timmer1.pdb

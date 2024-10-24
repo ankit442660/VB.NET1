@@ -1,0 +1,12 @@
+C:\VB.NET\GreaterNumber\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+C:\VB.NET\GreaterNumber\GreaterNumber\bin\Debug\GreaterNumber.exe
+C:\VB.NET\GreaterNumber\GreaterNumber\bin\Debug\GreaterNumber.pdb
+C:\VB.NET\GreaterNumber\GreaterNumber\bin\Debug\GreaterNumber.xml
+C:\VB.NET\GreaterNumber\GreaterNumber\obj\Debug\GreaterNumber.vbproj.AssemblyReference.cache
+C:\VB.NET\GreaterNumber\GreaterNumber\obj\Debug\GreaterNumber.Form1.resources
+C:\VB.NET\GreaterNumber\GreaterNumber\obj\Debug\GreaterNumber.Resources.resources
+C:\VB.NET\GreaterNumber\GreaterNumber\obj\Debug\GreaterNumber.vbproj.GenerateResource.cache
+C:\VB.NET\GreaterNumber\GreaterNumber\obj\Debug\GreaterNumber.vbproj.CoreCompileInputs.cache
+C:\VB.NET\GreaterNumber\GreaterNumber\obj\Debug\GreaterNumber.exe
+C:\VB.NET\GreaterNumber\GreaterNumber\obj\Debug\GreaterNumber.xml
+C:\VB.NET\GreaterNumber\GreaterNumber\obj\Debug\GreaterNumber.pdb

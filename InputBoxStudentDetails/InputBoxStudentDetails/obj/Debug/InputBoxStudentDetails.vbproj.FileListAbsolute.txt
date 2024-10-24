@@ -1,0 +1,12 @@
+C:\VB.NET\InputBoxStudentDetails\InputBoxStudentDetails\bin\Debug\InputBoxStudentDetails.exe.config
+C:\VB.NET\InputBoxStudentDetails\InputBoxStudentDetails\bin\Debug\InputBoxStudentDetails.exe
+C:\VB.NET\InputBoxStudentDetails\InputBoxStudentDetails\bin\Debug\InputBoxStudentDetails.pdb
+C:\VB.NET\InputBoxStudentDetails\InputBoxStudentDetails\bin\Debug\InputBoxStudentDetails.xml
+C:\VB.NET\InputBoxStudentDetails\InputBoxStudentDetails\obj\Debug\InputBoxStudentDetails.vbproj.AssemblyReference.cache
+C:\VB.NET\InputBoxStudentDetails\InputBoxStudentDetails\obj\Debug\InputBoxStudentDetails.Form1.resources
+C:\VB.NET\InputBoxStudentDetails\InputBoxStudentDetails\obj\Debug\InputBoxStudentDetails.Resources.resources
+C:\VB.NET\InputBoxStudentDetails\InputBoxStudentDetails\obj\Debug\InputBoxStudentDetails.vbproj.GenerateResource.cache
+C:\VB.NET\InputBoxStudentDetails\InputBoxStudentDetails\obj\Debug\InputBoxStudentDetails.vbproj.CoreCompileInputs.cache
+C:\VB.NET\InputBoxStudentDetails\InputBoxStudentDetails\obj\Debug\InputBoxStudentDetails.exe
+C:\VB.NET\InputBoxStudentDetails\InputBoxStudentDetails\obj\Debug\InputBoxStudentDetails.xml
+C:\VB.NET\InputBoxStudentDetails\InputBoxStudentDetails\obj\Debug\InputBoxStudentDetails.pdb

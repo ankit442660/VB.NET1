@@ -1,0 +1,12 @@
+C:\VB.NET\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\VB.NET\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\VB.NET\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\VB.NET\Factorial\Factorial\bin\Debug\Factorial.xml
+C:\VB.NET\Factorial\Factorial\obj\Debug\Factorial.vbproj.AssemblyReference.cache
+C:\VB.NET\Factorial\Factorial\obj\Debug\Factorial.Form1.resources
+C:\VB.NET\Factorial\Factorial\obj\Debug\Factorial.Resources.resources
+C:\VB.NET\Factorial\Factorial\obj\Debug\Factorial.vbproj.GenerateResource.cache
+C:\VB.NET\Factorial\Factorial\obj\Debug\Factorial.vbproj.CoreCompileInputs.cache
+C:\VB.NET\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\VB.NET\Factorial\Factorial\obj\Debug\Factorial.xml
+C:\VB.NET\Factorial\Factorial\obj\Debug\Factorial.pdb

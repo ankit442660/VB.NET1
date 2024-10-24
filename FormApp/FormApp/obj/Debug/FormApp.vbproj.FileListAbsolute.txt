@@ -1,0 +1,14 @@
+C:\VB.NET\FormApp\FormApp\bin\Debug\FormApp.exe.config
+C:\VB.NET\FormApp\FormApp\bin\Debug\FormApp.exe
+C:\VB.NET\FormApp\FormApp\bin\Debug\FormApp.pdb
+C:\VB.NET\FormApp\FormApp\bin\Debug\FormApp.xml
+C:\VB.NET\FormApp\FormApp\obj\Debug\FormApp.vbproj.AssemblyReference.cache
+C:\VB.NET\FormApp\FormApp\obj\Debug\FormApp.Form1.resources
+C:\VB.NET\FormApp\FormApp\obj\Debug\FormApp.Form2.resources
+C:\VB.NET\FormApp\FormApp\obj\Debug\FormApp.Form3.resources
+C:\VB.NET\FormApp\FormApp\obj\Debug\FormApp.Resources.resources
+C:\VB.NET\FormApp\FormApp\obj\Debug\FormApp.vbproj.GenerateResource.cache
+C:\VB.NET\FormApp\FormApp\obj\Debug\FormApp.vbproj.CoreCompileInputs.cache
+C:\VB.NET\FormApp\FormApp\obj\Debug\FormApp.exe
+C:\VB.NET\FormApp\FormApp\obj\Debug\FormApp.xml
+C:\VB.NET\FormApp\FormApp\obj\Debug\FormApp.pdb

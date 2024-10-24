@@ -1,0 +1,12 @@
+C:\VB.NET\SimpleIntrest\SimpleIntrest\bin\Debug\SimpleIntrest.exe.config
+C:\VB.NET\SimpleIntrest\SimpleIntrest\bin\Debug\SimpleIntrest.exe
+C:\VB.NET\SimpleIntrest\SimpleIntrest\bin\Debug\SimpleIntrest.pdb
+C:\VB.NET\SimpleIntrest\SimpleIntrest\bin\Debug\SimpleIntrest.xml
+C:\VB.NET\SimpleIntrest\SimpleIntrest\obj\Debug\SimpleIntrest.vbproj.AssemblyReference.cache
+C:\VB.NET\SimpleIntrest\SimpleIntrest\obj\Debug\SimpleIntrest.Form1.resources
+C:\VB.NET\SimpleIntrest\SimpleIntrest\obj\Debug\SimpleIntrest.Resources.resources
+C:\VB.NET\SimpleIntrest\SimpleIntrest\obj\Debug\SimpleIntrest.vbproj.GenerateResource.cache
+C:\VB.NET\SimpleIntrest\SimpleIntrest\obj\Debug\SimpleIntrest.vbproj.CoreCompileInputs.cache
+C:\VB.NET\SimpleIntrest\SimpleIntrest\obj\Debug\SimpleIntrest.exe
+C:\VB.NET\SimpleIntrest\SimpleIntrest\obj\Debug\SimpleIntrest.xml
+C:\VB.NET\SimpleIntrest\SimpleIntrest\obj\Debug\SimpleIntrest.pdb

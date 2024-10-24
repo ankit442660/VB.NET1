@@ -1,0 +1,12 @@
+C:\VB.NET\addsubmul\addsubmul\bin\Debug\addsubmul.exe.config
+C:\VB.NET\addsubmul\addsubmul\bin\Debug\addsubmul.exe
+C:\VB.NET\addsubmul\addsubmul\bin\Debug\addsubmul.pdb
+C:\VB.NET\addsubmul\addsubmul\bin\Debug\addsubmul.xml
+C:\VB.NET\addsubmul\addsubmul\obj\Debug\addsubmul.vbproj.AssemblyReference.cache
+C:\VB.NET\addsubmul\addsubmul\obj\Debug\addsubmul.Form1.resources
+C:\VB.NET\addsubmul\addsubmul\obj\Debug\addsubmul.Resources.resources
+C:\VB.NET\addsubmul\addsubmul\obj\Debug\addsubmul.vbproj.GenerateResource.cache
+C:\VB.NET\addsubmul\addsubmul\obj\Debug\addsubmul.vbproj.CoreCompileInputs.cache
+C:\VB.NET\addsubmul\addsubmul\obj\Debug\addsubmul.exe
+C:\VB.NET\addsubmul\addsubmul\obj\Debug\addsubmul.xml
+C:\VB.NET\addsubmul\addsubmul\obj\Debug\addsubmul.pdb

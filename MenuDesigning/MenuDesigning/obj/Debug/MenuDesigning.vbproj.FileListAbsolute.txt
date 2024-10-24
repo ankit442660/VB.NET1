@@ -1,0 +1,13 @@
+C:\VB.NET\MenuDesigning\MenuDesigning\bin\Debug\MenuDesigning.exe.config
+C:\VB.NET\MenuDesigning\MenuDesigning\bin\Debug\MenuDesigning.exe
+C:\VB.NET\MenuDesigning\MenuDesigning\bin\Debug\MenuDesigning.pdb
+C:\VB.NET\MenuDesigning\MenuDesigning\bin\Debug\MenuDesigning.xml
+C:\VB.NET\MenuDesigning\MenuDesigning\obj\Debug\MenuDesigning.vbproj.AssemblyReference.cache
+C:\VB.NET\MenuDesigning\MenuDesigning\obj\Debug\MenuDesigning.Form1.resources
+C:\VB.NET\MenuDesigning\MenuDesigning\obj\Debug\MenuDesigning.Resources.resources
+C:\VB.NET\MenuDesigning\MenuDesigning\obj\Debug\MenuDesigning.vbproj.GenerateResource.cache
+C:\VB.NET\MenuDesigning\MenuDesigning\obj\Debug\MenuDesigning.vbproj.CoreCompileInputs.cache
+C:\VB.NET\MenuDesigning\MenuDesigning\obj\Debug\MenuDesigning.exe
+C:\VB.NET\MenuDesigning\MenuDesigning\obj\Debug\MenuDesigning.xml
+C:\VB.NET\MenuDesigning\MenuDesigning\obj\Debug\MenuDesigning.pdb
+C:\VB.NET\MenuDesigning\MenuDesigning\obj\Debug\MenuDesigning.Form3.resources

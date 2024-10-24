@@ -1,0 +1,12 @@
+C:\VB.NET\TextBoxDDA\TextBoxDDA\obj\Debug\TextBoxDDA.vbproj.AssemblyReference.cache
+C:\VB.NET\TextBoxDDA\TextBoxDDA\obj\Debug\TextBoxDDA.Form1.resources
+C:\VB.NET\TextBoxDDA\TextBoxDDA\obj\Debug\TextBoxDDA.Resources.resources
+C:\VB.NET\TextBoxDDA\TextBoxDDA\obj\Debug\TextBoxDDA.vbproj.GenerateResource.cache
+C:\VB.NET\TextBoxDDA\TextBoxDDA\obj\Debug\TextBoxDDA.vbproj.CoreCompileInputs.cache
+C:\VB.NET\TextBoxDDA\TextBoxDDA\bin\Debug\TextBoxDDA.exe.config
+C:\VB.NET\TextBoxDDA\TextBoxDDA\bin\Debug\TextBoxDDA.exe
+C:\VB.NET\TextBoxDDA\TextBoxDDA\bin\Debug\TextBoxDDA.pdb
+C:\VB.NET\TextBoxDDA\TextBoxDDA\bin\Debug\TextBoxDDA.xml
+C:\VB.NET\TextBoxDDA\TextBoxDDA\obj\Debug\TextBoxDDA.exe
+C:\VB.NET\TextBoxDDA\TextBoxDDA\obj\Debug\TextBoxDDA.xml
+C:\VB.NET\TextBoxDDA\TextBoxDDA\obj\Debug\TextBoxDDA.pdb

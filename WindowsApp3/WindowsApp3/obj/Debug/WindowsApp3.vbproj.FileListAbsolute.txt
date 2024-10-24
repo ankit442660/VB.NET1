@@ -1,0 +1,16 @@
+C:\VB.NET\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\VB.NET\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\VB.NET\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\VB.NET\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\VB.NET\WindowsApp3\WindowsApp3\bin\Debug\Guna.UI.dll
+C:\VB.NET\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.AssemblyReference.cache
+C:\VB.NET\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\VB.NET\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\VB.NET\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\VB.NET\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\VB.NET\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CopyComplete
+C:\VB.NET\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\VB.NET\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\VB.NET\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\VB.NET\WindowsApp3\WindowsApp3\bin\Debug\MySql.Data.dll
+C:\VB.NET\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources

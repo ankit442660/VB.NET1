@@ -1,0 +1,12 @@
+C:\VB.NET\GroupBoxInputOutput\GroupBoxInputOutput\bin\Debug\GroupBoxInputOutput.exe.config
+C:\VB.NET\GroupBoxInputOutput\GroupBoxInputOutput\bin\Debug\GroupBoxInputOutput.exe
+C:\VB.NET\GroupBoxInputOutput\GroupBoxInputOutput\bin\Debug\GroupBoxInputOutput.pdb
+C:\VB.NET\GroupBoxInputOutput\GroupBoxInputOutput\bin\Debug\GroupBoxInputOutput.xml
+C:\VB.NET\GroupBoxInputOutput\GroupBoxInputOutput\obj\Debug\GroupBoxInputOutput.vbproj.AssemblyReference.cache
+C:\VB.NET\GroupBoxInputOutput\GroupBoxInputOutput\obj\Debug\GroupBoxInputOutput.Form1.resources
+C:\VB.NET\GroupBoxInputOutput\GroupBoxInputOutput\obj\Debug\GroupBoxInputOutput.Resources.resources
+C:\VB.NET\GroupBoxInputOutput\GroupBoxInputOutput\obj\Debug\GroupBoxInputOutput.vbproj.GenerateResource.cache
+C:\VB.NET\GroupBoxInputOutput\GroupBoxInputOutput\obj\Debug\GroupBoxInputOutput.vbproj.CoreCompileInputs.cache
+C:\VB.NET\GroupBoxInputOutput\GroupBoxInputOutput\obj\Debug\GroupBoxInputOutput.exe
+C:\VB.NET\GroupBoxInputOutput\GroupBoxInputOutput\obj\Debug\GroupBoxInputOutput.xml
+C:\VB.NET\GroupBoxInputOutput\GroupBoxInputOutput\obj\Debug\GroupBoxInputOutput.pdb

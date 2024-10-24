@@ -1,0 +1,12 @@
+C:\VB.NET\Timer2\Timer2\bin\Debug\Timer2.exe.config
+C:\VB.NET\Timer2\Timer2\bin\Debug\Timer2.exe
+C:\VB.NET\Timer2\Timer2\bin\Debug\Timer2.pdb
+C:\VB.NET\Timer2\Timer2\bin\Debug\Timer2.xml
+C:\VB.NET\Timer2\Timer2\obj\Debug\Timer2.vbproj.AssemblyReference.cache
+C:\VB.NET\Timer2\Timer2\obj\Debug\Timer2.Form1.resources
+C:\VB.NET\Timer2\Timer2\obj\Debug\Timer2.Resources.resources
+C:\VB.NET\Timer2\Timer2\obj\Debug\Timer2.vbproj.GenerateResource.cache
+C:\VB.NET\Timer2\Timer2\obj\Debug\Timer2.vbproj.CoreCompileInputs.cache
+C:\VB.NET\Timer2\Timer2\obj\Debug\Timer2.exe
+C:\VB.NET\Timer2\Timer2\obj\Debug\Timer2.xml
+C:\VB.NET\Timer2\Timer2\obj\Debug\Timer2.pdb

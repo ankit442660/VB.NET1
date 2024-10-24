@@ -1,0 +1,12 @@
+C:\VB.NET\TennumberInputArray\TennumberInputArray\bin\Debug\TennumberInputArray.exe.config
+C:\VB.NET\TennumberInputArray\TennumberInputArray\bin\Debug\TennumberInputArray.exe
+C:\VB.NET\TennumberInputArray\TennumberInputArray\bin\Debug\TennumberInputArray.pdb
+C:\VB.NET\TennumberInputArray\TennumberInputArray\bin\Debug\TennumberInputArray.xml
+C:\VB.NET\TennumberInputArray\TennumberInputArray\obj\Debug\TennumberInputArray.vbproj.AssemblyReference.cache
+C:\VB.NET\TennumberInputArray\TennumberInputArray\obj\Debug\TennumberInputArray.Form1.resources
+C:\VB.NET\TennumberInputArray\TennumberInputArray\obj\Debug\TennumberInputArray.Resources.resources
+C:\VB.NET\TennumberInputArray\TennumberInputArray\obj\Debug\TennumberInputArray.vbproj.GenerateResource.cache
+C:\VB.NET\TennumberInputArray\TennumberInputArray\obj\Debug\TennumberInputArray.vbproj.CoreCompileInputs.cache
+C:\VB.NET\TennumberInputArray\TennumberInputArray\obj\Debug\TennumberInputArray.exe
+C:\VB.NET\TennumberInputArray\TennumberInputArray\obj\Debug\TennumberInputArray.xml
+C:\VB.NET\TennumberInputArray\TennumberInputArray\obj\Debug\TennumberInputArray.pdb

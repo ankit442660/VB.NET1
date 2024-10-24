@@ -1,0 +1,12 @@
+C:\VB.NET\sum3\sum3\bin\Debug\sum3.exe.config
+C:\VB.NET\sum3\sum3\bin\Debug\sum3.exe
+C:\VB.NET\sum3\sum3\bin\Debug\sum3.pdb
+C:\VB.NET\sum3\sum3\bin\Debug\sum3.xml
+C:\VB.NET\sum3\sum3\obj\Debug\sum3.vbproj.AssemblyReference.cache
+C:\VB.NET\sum3\sum3\obj\Debug\sum3.Form1.resources
+C:\VB.NET\sum3\sum3\obj\Debug\sum3.Resources.resources
+C:\VB.NET\sum3\sum3\obj\Debug\sum3.vbproj.GenerateResource.cache
+C:\VB.NET\sum3\sum3\obj\Debug\sum3.vbproj.CoreCompileInputs.cache
+C:\VB.NET\sum3\sum3\obj\Debug\sum3.exe
+C:\VB.NET\sum3\sum3\obj\Debug\sum3.xml
+C:\VB.NET\sum3\sum3\obj\Debug\sum3.pdb

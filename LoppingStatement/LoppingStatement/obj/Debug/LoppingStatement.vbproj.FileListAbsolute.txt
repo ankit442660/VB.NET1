@@ -1,0 +1,12 @@
+C:\VB.NET\LoppingStatement\LoppingStatement\bin\Debug\LoppingStatement.exe.config
+C:\VB.NET\LoppingStatement\LoppingStatement\bin\Debug\LoppingStatement.exe
+C:\VB.NET\LoppingStatement\LoppingStatement\bin\Debug\LoppingStatement.pdb
+C:\VB.NET\LoppingStatement\LoppingStatement\bin\Debug\LoppingStatement.xml
+C:\VB.NET\LoppingStatement\LoppingStatement\obj\Debug\LoppingStatement.vbproj.AssemblyReference.cache
+C:\VB.NET\LoppingStatement\LoppingStatement\obj\Debug\LoppingStatement.Form1.resources
+C:\VB.NET\LoppingStatement\LoppingStatement\obj\Debug\LoppingStatement.Resources.resources
+C:\VB.NET\LoppingStatement\LoppingStatement\obj\Debug\LoppingStatement.vbproj.GenerateResource.cache
+C:\VB.NET\LoppingStatement\LoppingStatement\obj\Debug\LoppingStatement.vbproj.CoreCompileInputs.cache
+C:\VB.NET\LoppingStatement\LoppingStatement\obj\Debug\LoppingStatement.exe
+C:\VB.NET\LoppingStatement\LoppingStatement\obj\Debug\LoppingStatement.xml
+C:\VB.NET\LoppingStatement\LoppingStatement\obj\Debug\LoppingStatement.pdb

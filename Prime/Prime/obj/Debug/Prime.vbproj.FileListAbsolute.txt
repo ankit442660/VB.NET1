@@ -1,0 +1,12 @@
+C:\VB.NET\Prime\Prime\bin\Debug\Prime.exe.config
+C:\VB.NET\Prime\Prime\bin\Debug\Prime.exe
+C:\VB.NET\Prime\Prime\bin\Debug\Prime.pdb
+C:\VB.NET\Prime\Prime\bin\Debug\Prime.xml
+C:\VB.NET\Prime\Prime\obj\Debug\Prime.vbproj.AssemblyReference.cache
+C:\VB.NET\Prime\Prime\obj\Debug\Prime.Form1.resources
+C:\VB.NET\Prime\Prime\obj\Debug\Prime.Resources.resources
+C:\VB.NET\Prime\Prime\obj\Debug\Prime.vbproj.GenerateResource.cache
+C:\VB.NET\Prime\Prime\obj\Debug\Prime.vbproj.CoreCompileInputs.cache
+C:\VB.NET\Prime\Prime\obj\Debug\Prime.exe
+C:\VB.NET\Prime\Prime\obj\Debug\Prime.xml
+C:\VB.NET\Prime\Prime\obj\Debug\Prime.pdb
